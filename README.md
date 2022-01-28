@@ -5,7 +5,8 @@ PHPで作成したお問合わせフォームです。
 
 ## Demo
 
-![](demo.png)
+![](demo1.png)
+![](demo2.png)
 
 ## Author
 
