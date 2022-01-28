@@ -29,7 +29,7 @@
         </form>
 
         <form method="post" action="insert.php">
-            <input type="submit" class="button2" value="登録する">
+            <input type="submit" class="button2" value="送信する">
             <input type="hidden" value="<?php echo $_POST['name']; ?>" name="name">
             <input type="hidden" value="<?php echo $_POST['mail']; ?>" name="mail">
             <input type="hidden" value="<?php echo $_POST['age']; ?>" name="age">
